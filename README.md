@@ -4,6 +4,7 @@ This is a implementation of Analyze the Influence of Features Extracted from Aud
 ## Introduction
 The demand for international English certifications like IELTS, TOEIC, and TOEFL has significantly increased in Vietnam's educational and employment sectors. While self-practice in reading and listening is common, developing speaking and writing skills requires supervision. Unfortunately, access to reputable preparation centers is limited, especially in rural areas, where high tuition fees can be prohibitive. Additionally, instructors struggle to correct speaking errors for multiple students, highlighting the need for an automated assessment system.
 
+Our study aims to fill this research gap by enhancing English language learning for Vietnamese learners. We utilize data from a test preparation center in Ho Chi Minh City to extract meaningful features from audio recordings of speaking tests. Through statistical analysis, we examine how these features affect IELTS speaking scores. We also employ Machine Learning algorithms to predict scores based on the extracted features, yielding promising results. Our research provides valuable insights into speaking criteria assessment and identifies areas for improvement, enabling Vietnamese learners and teachers to adopt effective strategies for enhancing their scores.
 ## Data collection
 
 
@@ -18,6 +19,6 @@ The demand for international English certifications like IELTS, TOEIC, and TOEFL
 | Score             | The IELTS speaking score, which is also the target variable.                                                                                               |
 
 
-Our study aims to fill this research gap by enhancing English language learning for Vietnamese learners. We utilize data from a test preparation center in Ho Chi Minh City to extract meaningful features from audio recordings of speaking tests. Through statistical analysis, we examine how these features affect IELTS speaking scores. We also employ Machine Learning algorithms to predict scores based on the extracted features, yielding promising results. Our research provides valuable insights into speaking criteria assessment and identifies areas for improvement, enabling Vietnamese learners and teachers to adopt effective strategies for enhancing their scores.
+
 ## Conclusion
 This study presents the first data set collected on the characteristics of IELTS speaking practice audios and is also the first to analyze the influence of these characteristics on speaking test scores. Despite the considerable time and effort required for data collection, labeling, and feature extraction, we have achieved promising results. Our proposed model, capable of predicting IELTS speaking test scores based on extracted features, has the potential to reduce the cost of obtaining English proficiency certificates for Vietnamese individuals. Additionally, analyzing the effects of these features on IELTS test scores can help learners and teachers identify specific elements of speaking skills that need improvement.
