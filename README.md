@@ -49,7 +49,7 @@ One-way ANOVA Analysis between IELTS speaking score and feature values
 | Rare word          | 11.565  | 4.621 × 10−14     |
 | Number of word     | 15.198  | 9.332 × 10−19     |
 
-<img width="500" alt="{65636A4B-6D95-4864-BB22-6195BE7E5FFE}" src="https://github.com/user-attachments/assets/a9e30ffc-6f52-4ea7-aa30-186e36695bd0">
+<img width="400" alt="{65636A4B-6D95-4864-BB22-6195BE7E5FFE}" src="https://github.com/user-attachments/assets/a9e30ffc-6f52-4ea7-aa30-186e36695bd0">
 
 
 The boxplots overlap significantly and do not
