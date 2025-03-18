@@ -1,5 +1,7 @@
 # Analyze the Influence of Features Extracted from Audios on the Results of IELTS Speaking Test
-This is a implementation of Analyze the Influence of Features Extracted from Audios on the Results of IELTS Speaking Test by me. It is accepted for presentation at the 2024 International Conference on Advanced Technologies for Communications (ATC) and soon will be published in the IEEE Xplore Digital Library
+This is a implementation of Analyze the Influence of Features Extracted from Audios on the Results of IELTS Speaking Test by me. It is accepted for presentation at the 2024 International Conference on Advanced Technologies for Communications (ATC) and published in the IEEE Xplore Digital Library. 
+
+Link paper: https://ieeexplore.ieee.org/abstract/document/10908337
 
 ## Introduction
 The demand for international English certifications like IELTS, TOEIC, and TOEFL has significantly increased in Vietnam's educational and employment sectors. While self-practice in reading and listening is common, developing speaking and writing skills requires supervision. Unfortunately, access to reputable preparation centers is limited, especially in rural areas, where high tuition fees can be prohibitive. Additionally, instructors struggle to correct speaking errors for multiple students, highlighting the need for an automated assessment system.
